@@ -14,9 +14,9 @@
 [Goole] (http://google.com)
 
 
-- [] teste de tasklist
-- [] teste de tasklist
-- [] teste de tasklist
+- [ ] teste de tasklist
+- [ ] teste de tasklist
+- [ ] teste de tasklist
 
 
 
