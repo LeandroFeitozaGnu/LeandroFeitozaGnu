@@ -24,6 +24,16 @@ Mas além destas ferramentas que estou estudando, eu tenho em mim um espirito ap
 
 Aqui no meu GItHub vocẽ poderá ver mais a fundo meu portfólio e explorar meus repositórios onde exponho meus projetos educacionais e pessoais.
 
+
+## Hard skills 💯
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
+  <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
+  <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
+  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
+</p>
+
 Para saber mais me contacte:
 
 [linkedin] (linkedin.com/in/leandrofeitoza)
