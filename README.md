@@ -1,22 +1,34 @@
-# Hi there 👋
+# <Hello World!/> 👋
 
-#Titulo tipo h1
+## Olá eu sou o Leandro
 
-1. aaaa
-2. bbbb
-1. ccccc
+Sou atualmente estudande de desenvolvimento Web Full-Stack, na escola Trybe. Estou a 7 meses no curso e já conclui o módulo de Front-End e no momento estou estudando o módulo de Back-End
 
+No Front já desenvolvi usando as ferramentas 
 
-* lista nao ordenada
-* sasasas
-* xpto
+* HTML · CSS · Javascript (ES6)
+* React (+ Hooks e ContextAPI) · Redux
+* Jest · React Testing Library
 
-[Goole] (http://google.com)
+E agora no Back-End já estudei 
 
+* SQL (MySQL) · NoSQL (MongoDB)
+ 
+ E começo agora estudar 
+ 
+ * Nodejs
+ 
+Além destas ferramentas uso em todo o curso o GIT para versionamento dos meus códigos que são exercicios diários e projetos práticos que elevam meus conhecimentos.
 
-- [ ] teste de tasklist
-- [ ] teste de tasklist
-- [ ] teste de tasklist
+Mas além destas ferramentas que estou estudando, eu tenho em mim um espirito apaixonado por resolver problemas e estou amando explorar o mundo do desenvolvimento WEB.
+
+Aqui no meu GItHub vocẽ poderá ver mais a fundo meu portfólio e explorar meus repositórios onde exponho meus projetos educacionais e pessoais.
+
+Para saber mais me contacte:
+
+linkedin.com/in/leandrofeitoza
+leandro.feitoza@protonmail.com
+
 
 
 
