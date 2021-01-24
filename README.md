@@ -26,7 +26,7 @@ Aqui no meu GItHub vocẽ poderá ver mais a fundo meu portfólio e explorar meu
 
 Para saber mais me contacte:
 
-linkedin.com/in/leandrofeitoza
+[linkedin] (linkedin.com/in/leandrofeitoza)
 
 leandro.feitoza@protonmail.com
 
