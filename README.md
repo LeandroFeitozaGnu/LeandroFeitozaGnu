@@ -12,6 +12,32 @@ Busco uma oportunidade de começar a trabalhar como Dev, mostrar o que já progr
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
 
+
+ <div class="container">
+       <table>
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Descrição</th>
+                    <th>Categoria</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>001</td>
+                    <td>Notebook i7 8GB Branco</td>
+                    <td>Informática</td>
+                </tr>
+                <tr>
+                    <td>002</td>
+                    <td>Caneta Esferográfica Azul</td>
+                    <td>Papelaria</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
 Para saber mais me contacte:
 
 [linkedin] (linkedin.com/in/leandrofeitoza)
