@@ -12,30 +12,52 @@ Busco uma oportunidade de começar a trabalhar como Dev, mostrar o que já progr
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
 
-
- <div class="container">
-       <table>
-            <thead>
-                <tr>
-                    <th>Código</th>
-                    <th>Descrição</th>
-                    <th>Categoria</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>001</td>
-                    <td>Notebook i7 8GB Branco</td>
-                    <td>Informática</td>
-                </tr>
-                <tr>
-                    <td>002</td>
-                    <td>Caneta Esferográfica Azul</td>
-                    <td>Papelaria</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+<table>
+  <thead>
+    <tr>
+      <th>Ferramenta/Tecnologia Estudadas</th>
+      <th>Status</th>
+    </tr>
+</thead>
+  <tbody>
+    <tr>
+      <td>Javascript</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>NodeJS</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>Express</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>HTML5</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>:heavy_check_mark:</td>
+    </tr>
+  </tbody>
+</table>
 
 
 Para saber mais me contacte:
