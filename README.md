@@ -1,26 +1,11 @@
-# <Hello World!/> 👋
+<h1> <Hello World /> Eu sou o Leandro </h1>
 
-## Olá eu sou o Leandro
+Nascido em São Paulo, morador da zona Sul. Técnologo em Redes de Computadores e técnico em Informática. Desde de 2004 trabalho na area de tecnologia, como Suporte Técnico tanto em atendimento Remoto e Help Desk local. 
+Em meados de 2020 resolvi atuar na area de desenvolvimento de Software. E após conhecer a escola Trybe, estou estudando para atuar como desenvolvedor web.
 
-Sou atualmente estudande de desenvolvimento Web Full-Stack, na escola Trybe. Estou a 7 meses no curso e já conclui o módulo de Front-End e no momento estou estudando o módulo de Back-End
+Busco uma oportunidade de começar trabalhar como Dev, mostrar o que já progredi neste quase um ano de estudo e o como posso evoluir muito mais junto a uma equipe disposta a compartilhar comnhecimento.
 
-No Front já desenvolvi usando as ferramentas 
 
-* HTML · CSS · Javascript (ES6)
-* React (+ Hooks e ContextAPI) · Redux
-* Jest · React Testing Library
-
-E agora no Back-End já estudei 
-
-* SQL (MySQL) · NoSQL (MongoDB)
- 
- E começo agora estudar 
- 
- * Nodejs
- 
-Além destas ferramentas uso em todo o curso o GIT para versionamento dos meus códigos que são exercicios diários e projetos práticos que elevam meus conhecimentos.
-
-Mas além destas ferramentas que estou estudando, eu tenho em mim um espirito apaixonado por resolver problemas e estou amando explorar o mundo do desenvolvimento WEB.
 
 Aqui no meu GItHub vocẽ poderá ver mais a fundo meu portfólio e explorar meus repositórios onde exponho meus projetos educacionais e pessoais.
 
