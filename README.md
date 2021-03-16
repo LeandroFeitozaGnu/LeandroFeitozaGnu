@@ -1,8 +1,6 @@
-# Hi there 👋
-# <Hello World!/> 👋
 
-#Titulo tipo h1
-## Olá eu sou o Leandro
+# <Hello World!/> - sou o Leandro
+
 
 Nascido em São Paulo, morador da zona Sul. Técnologo em Redes de Computadores e técnico em Informática. Desde de 2004 trabalho na area de tecnologia, como Suporte Técnico tanto em atendimento Remoto e Help Desk local. 
 Em meados de 2020 resolvi atuar na area de desenvolvimento de Software. E após conhecer a escola Trybe, estou estudando para atuar como desenvolvedor web.
