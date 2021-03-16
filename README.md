@@ -10,6 +10,7 @@ Busco uma oportunidade de começar a trabalhar como Dev, mostrar o que já progr
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofeitozagnu)](https://github.com/leandrofeitozagnu/github-readme-stats)
 
 Para saber mais me contacte:
 
